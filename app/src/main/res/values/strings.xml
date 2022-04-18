@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">yalovafood</string>
+    <string name="kvkk">Üye Ol a basarak <a href = "https://stackoverflow.com/questions/9204303/android-is-it-possible-to-add-a-clickable-link-into-a-string-resource"> Üyelik Koşullarını</a> kabul ediyorum</string>
 </resources>
