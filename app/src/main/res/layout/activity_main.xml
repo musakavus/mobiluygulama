@@ -30,7 +30,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Yalova Food"
+        android:text="GETİR SEPETİ"
         android:textSize="60sp"
         android:textStyle="bold"
         android:textColor="#3d33a8"
